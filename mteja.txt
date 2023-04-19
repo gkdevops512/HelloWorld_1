@@ -1,1 +1,3 @@
+
 This file is created by M teja
+sample file to understand concepts of git
